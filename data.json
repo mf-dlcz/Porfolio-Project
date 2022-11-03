@@ -1,0 +1,47 @@
+"projects": [
+    {
+        id: 0,
+        project_name: 'a_random_quote_generator',
+        description: 'game',
+        technologies: ['JavaScript', 'html', 'CSS'],
+        live_link: 'https://mariadlcruzz0-0.github.io/a_random_quote_generator-v1/',
+        github-link: '',
+        image_urls: './images/project-1-550.jpg'
+    },
+    {
+        id: 1,
+        project_name: 'a_random_quote_generator',
+        description: 'game',
+        technologies: ['JavaScript', 'html', 'CSS'],
+        live_link: 'https://mariadlcruzz0-0.github.io/a_random_quote_generator-v1/',
+        github-link: '',
+        image_urls: './images/project-2-550.jpg'
+    },
+    {
+        id: 2,
+        project_name: 'a_random_quote_generator',
+        description: 'game',
+        technologies: ['JavaScript', 'html', 'CSS'],
+        live_link: 'https://mariadlcruzz0-0.github.io/a_random_quote_generator-v1/',
+        github-link: '',
+        image_urls: './images/project-3-550.jpg'
+    },
+    {
+        id: 3,
+        project_name: 'a_random_quote_generator',
+        description: 'game',
+        technologies: ['JavaScript', 'html', 'CSS'],
+        live_link: 'https://mariadlcruzz0-0.github.io/a_random_quote_generator-v1/',
+        github-link: '',
+        image_urls: './images/project-4-550.jpg'
+    },
+    {
+        id: 4,
+        project_name: 'a_random_quote_generator',
+        description: 'game',
+        technologies: ['JavaScript', 'html', 'CSS'],
+        live_link: 'https://mariadlcruzz0-0.github.io/a_random_quote_generator-v1/',
+        github-link: '',
+        image_urls: './images/project-5-550.jpg'
+    }
+]
