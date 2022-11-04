@@ -7,7 +7,8 @@
             "technologies": ["JavaScript"],
             "live_link": "https://mariadlcruzz0-0.github.io/a_random_quote_generator-v1/",
             "github_link": "https://github.com/mariadlcruzz0-0/a_random_quote_generator-v1",
-            "image_urls": ["/static/images/project-1-550.png", "/static/images/project-1-1200.png"]
+            "image_urls": ["/static/images/project-1-550.png", "/static/images/project-1-1200.png"],
+            "skills": ["CSS", "JavaScript", "Git and GitHub", "VS Code", "Accessibility", "OOP", "Fetch and Public APIs", "Node.js", "Express", "Pug", "React", "Slack", "Google Suit"]
         },
         {
             "id": 1,

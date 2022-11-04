@@ -16,18 +16,18 @@ app.use('/static', express.static('public'));
 //Home Route
 app.get("/", (req, res) => {
     res.render("index", { projects: projects });
-  });
+});
 //About route
 app.get('/about', (req, res) => {
-    res.render('about');
+    res.render('about', {project: projects[0]});
 });
 app.get('/projects/:id', (req, res, next) => {
     if (projects[req.params.id]) {
-      res.render('project', {project: projects[req.params.id]});
+        res.render('project', {project: projects[req.params.id]});
     } else {
-      next();
+        next();
     }
-})
+});
 
 /**
  * 404 & Global Error Handlers
@@ -48,7 +48,8 @@ app.use((err, req, res, next) => {
         res.status(404);
     } else {
         err.message = err.message || `Oops!  Something went wrong on the server.`;
-        res.status(err.status || 500).render('error', { err });
+        res.status(err.status || 500);
+        console.error(err.message);
     }
 });
 
