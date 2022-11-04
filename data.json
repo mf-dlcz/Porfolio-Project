@@ -7,7 +7,7 @@
             "technologies": ["JavaScript"],
             "live_link": "https://mariadlcruzz0-0.github.io/a_random_quote_generator-v1/",
             "github_link": "https://github.com/mariadlcruzz0-0/a_random_quote_generator-v1",
-            "image_url": ["/static/images/project-1-550.png", "/static/images/project-1-1200.png"]
+            "image_urls": ["/static/images/project-1-550.png", "/static/images/project-1-1200.png"]
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "technologies": ["JavaScript"],
             "live_link": "https://mariadlcruzz0-0.github.io/data-pagination-and-filtering-v1/",
             "github_link": "https://github.com/mariadlcruzz0-0/data-pagination-and-filtering-v1",
-            "image_url": ["/static/images/project-2-550.png", "/static/images/project-2-1200.png"]
+            "image_urls": ["/static/images/project-2-550.png", "/static/images/project-2-1200.png"]
         },
         {
             "id": 2,
@@ -25,7 +25,7 @@
             "technologies": ["JavaScript"],
             "live_link": "https://mariadlcruzz0-0.github.io/interactive-form-v3/",
             "github_link": "https://github.com/mariadlcruzz0-0/interactive-form-v3",
-            "image_url": ["/static/images/project-3-550.png", "/static/images/project-3-1200.png"]
+            "image_urls": ["/static/images/project-3-550.png", "/static/images/project-3-1200.png"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies": ["JavaScript"],
             "live_link": "https://mariadlcruzz0-0.github.io/oop_game-v2/",
             "github_link": "https://github.com/mariadlcruzz0-0/oop_game-v2",
-            "image_url": ["/static/images/project-4-550.png", "/static/images/project-4-1200.png"]
+            "image_urls": ["/static/images/project-4-550.png", "/static/images/project-4-1200.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies": ["JavaScript"],
             "live_link": "https://mariadlcruzz0-0.github.io/student-files/",
             "github_link": "https://github.com/mariadlcruzz0-0/student-files",
-            "image_url": ["/static/images/project-5-550.png", "/static/images/project-5-1200.png"]
+            "image_urls": ["/static/images/project-5-550.png", "/static/images/project-5-1200.png"]
         }
     ]
 }
