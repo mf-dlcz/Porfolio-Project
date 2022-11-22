@@ -58,7 +58,7 @@
         {
             "id": 6,
             "project_name": "SQL Library Manager",
-            "description": "This program is a library database",
+            "description": "This program miniques the function of a library database",
             "technologies": ["JavaScript, Express, Pug, Node.js"],
             "live_link": "/",
             "github_link": "https://github.com/mariadlcruzz0-0/sql_library_manager-v1",
