@@ -45,6 +45,24 @@
             "live_link": "https://mariadlcruzz0-0.github.io/student-files/",
             "github_link": "https://github.com/mariadlcruzz0-0/student-files",
             "image_urls": ["/static/images/project-5-550.png", "/static/images/project-5-1200.png"]
+        },
+        {
+            "id": 5,
+            "project_name": "React Gallery App",
+            "description": "Used React to create a search engine that displays different images",
+            "technologies": ["JavaScript, React.js"],
+            "live_link": "/",
+            "github_link": "https://github.com/mariadlcruzz0-0/unit-7-project",
+            "image_urls": ["/static/images/project-7-550.png", "/static/images/project-7-1200.png"]
+        },
+        {
+            "id": 6,
+            "project_name": "SQL Library Manager",
+            "description": "This program is a library database",
+            "technologies": ["JavaScript, Express, Pug, Node.js"],
+            "live_link": "/",
+            "github_link": "https://github.com/mariadlcruzz0-0/sql_library_manager-v1",
+            "image_urls": ["/static/images/project-8-550.png", "/static/images/project-8-1200.png"]
         }
     ]
 }
