@@ -51,8 +51,8 @@
             "project_name": "React Gallery App",
             "description": "Used React to create a search engine that displays different images",
             "technologies": ["JavaScript, React.js"],
-            "live_link": "/",
-            "github_link": "https://github.com/mariadlcruzz0-0/unit-7-project",
+            "live_link": "https://grand-faun-4dd26d.netlify.app",
+            "github_link": "https://github.com/mariadlcruzz0-0/flickr-react-gallery",
             "image_urls": ["/static/images/project-7-550.png", "/static/images/project-7-1200.png"]
         },
         {
@@ -60,7 +60,7 @@
             "project_name": "SQL Library Manager",
             "description": "This program miniques the function of a library database",
             "technologies": ["JavaScript, Express, Pug, Node.js"],
-            "live_link": "/",
+            "live_link": "https://sqllibrarymanager-v1-production.up.railway.app/books",
             "github_link": "https://github.com/mariadlcruzz0-0/sql_library_manager-v1",
             "image_urls": ["/static/images/project-8-550.png", "/static/images/project-8-1200.png"]
         }
