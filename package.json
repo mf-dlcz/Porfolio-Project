@@ -1,7 +1,7 @@
 {
-  "name": "project-6",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [Portfolio](#portfolio)\r   - [Table of Contents](#table-of-contents)\r   - [Project Overview](#project-overview)\r   - [Demo](#demo)\r   - [Technologies Used](#technologies-used)\r   - [How to Use](#how-to-use)",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
